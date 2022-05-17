@@ -1,4 +1,5 @@
-Just a random "dood" creating random stuff
+Teen Indiedev trying to  make quality stuff
+
 
 <!---
 DaDevDood/DaDevDood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
